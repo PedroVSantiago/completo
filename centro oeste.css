@@ -1,0 +1,28 @@
+.imgg{    
+    width: 300px;
+}
+.vg{
+    margin: 20px 50px 50px 90px;
+}
+.titulo{
+    margin: 20px 50px 50px 90px;
+    display: flex;
+    align-items: center;
+}
+.borda{
+    border: solid #000000 2px;
+    background-color: rgb(48, 48, 48);
+    color: rgb(255, 255, 255);
+}
+.ttl{
+    margin: 0px 200px 50px 0px;
+}
+.est{
+    margin: 20px 50px 50px 90px;
+}
+.imggp{
+    width: 200px;
+}
+.imggpdf{
+    width: 150px;    
+}
